@@ -27,12 +27,12 @@ export default function About() {
           <div className="col-6 col-md-3 mb-8 mb-lg-12">
             <div className="img-holder mx-auto mb-3" style={{ backgroundImage: `url(${imgMotilal})` }} ></div>
             <h4 className="mb-1">Moti Lal Rai</h4>
-            <p>CEO</p>
+            <p>Chief Executive Officer</p>
           </div>
           <div className="col-6 col-md-3 mb-8 mb-lg-12">
             <div className="img-holder mx-auto mb-3" style={{ backgroundImage: `url(${imgAnil})` }} ></div>
             <h4 className="mb-1">Anil K. Tamang</h4>
-            <p>CTO</p>
+            <p>Chief Technology Officer</p>
           </div>
           <div className="col-6 col-md-3 mb-8 mb-lg-12">
             <div className="img-holder mx-auto mb-3" style={{ backgroundImage: `url(${imgManoj})` }} ></div>
