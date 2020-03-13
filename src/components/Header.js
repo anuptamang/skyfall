@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from "react-scroll";
-import logo from '../images/logo/logo.svg';
+// import logo from '../images/logo/logo.svg';
+import logo from '../images/logo/skyfall.svg';
 
 export default function Header() {
 
@@ -9,11 +10,11 @@ export default function Header() {
       <div className="container-fluid d-flex justify-content-between">
         <a href="https://skyfalltechnology.com/" className="logo-holder d-flex align-items-center">
           <div className="logo-img">
-            <img src={logo} width="192" height="192" alt="Skyfall Technologies" />
+            <img src={logo} width="50" height="47" alt="Skyfall Technologies" />
           </div>
           <div className="logo-text">
-            <span className="title">skyfall technologies</span>
-            <span className="slogan d-block">Think Smart, Be Smart, Use Technology!</span>
+            <span className="title">Skyfall Technologies</span>
+            <span className="slogan d-block">Empowering Through Technology!</span>
           </div>
         </a>
 

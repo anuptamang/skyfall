@@ -40,6 +40,10 @@
 
 .logo-img {
   width: 50px;
+
+  @include media('>=desktop') {
+    margin: 0 10px 0 0;
+  }
 }
 
 .logo-text {
@@ -51,10 +55,10 @@
     font-size: 14px;
     line-height: 1.1;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 400;
 
     @include media('>=desktop') {
-      font-size: 18px;
+      font-size: 23px;
     }
   }
 
@@ -64,7 +68,7 @@
     text-transform: lowercase;
 
     @include media('>=tablet') {
-      font-size: 12px;
+      font-size: 15px;
     }
   }
 }
@@ -87,7 +91,7 @@
     padding: 25px 20px !important;
     font-size: 14px;
     line-height: 1;
-    font-weight: 700;
+    font-weight: 400;
     text-transform: uppercase;
     margin: 0 2px 0 0;
 
