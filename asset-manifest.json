@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/skyfall/static/css/main.64fd7879.chunk.css",
+    "main.js": "/skyfall/static/js/main.e7e26844.chunk.js",
+    "main.js.map": "/skyfall/static/js/main.e7e26844.chunk.js.map",
+    "runtime-main.js": "/skyfall/static/js/runtime-main.e884f686.js",
+    "runtime-main.js.map": "/skyfall/static/js/runtime-main.e884f686.js.map",
+    "static/js/2.b10f746d.chunk.js": "/skyfall/static/js/2.b10f746d.chunk.js",
+    "static/js/2.b10f746d.chunk.js.map": "/skyfall/static/js/2.b10f746d.chunk.js.map",
+    "index.html": "/skyfall/index.html",
+    "precache-manifest.21a394e4a3b0d98c0f96f90370fc2871.js": "/skyfall/precache-manifest.21a394e4a3b0d98c0f96f90370fc2871.js",
+    "service-worker.js": "/skyfall/service-worker.js",
+    "static/css/main.64fd7879.chunk.css.map": "/skyfall/static/css/main.64fd7879.chunk.css.map",
+    "static/js/2.b10f746d.chunk.js.LICENSE.txt": "/skyfall/static/js/2.b10f746d.chunk.js.LICENSE.txt",
+    "static/media/about-post.jpg": "/skyfall/static/media/about-post.b43826a5.jpg",
+    "static/media/anil.jpg": "/skyfall/static/media/anil.17d5c6ea.jpg",
+    "static/media/anup.jpg": "/skyfall/static/media/anup.214901fb.jpg",
+    "static/media/bipin.jpg": "/skyfall/static/media/bipin.aef62088.jpg",
+    "static/media/dharmendra.jpg": "/skyfall/static/media/dharmendra.b655a99b.jpg",
+    "static/media/main.scss": "/skyfall/static/media/services-banner.e3068fcf.jpg",
+    "static/media/manoj.jpg": "/skyfall/static/media/manoj.5deda86a.jpg",
+    "static/media/pramod.jpg": "/skyfall/static/media/pramod.890b0d6d.jpg",
+    "static/media/sabina.JPG": "/skyfall/static/media/sabina.37ff1e67.JPG",
+    "static/media/santosh.jpg": "/skyfall/static/media/santosh.196c56ca.jpg",
+    "static/media/sapana.JPG": "/skyfall/static/media/sapana.6cf89798.JPG",
+    "static/media/shankar.jpg": "/skyfall/static/media/shankar.413d5fdb.jpg",
+    "static/media/skyfall.svg": "/skyfall/static/media/skyfall.e0f69cde.svg",
+    "static/media/subodh.jpg": "/skyfall/static/media/subodh.9cf64f4f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e884f686.js",
+    "static/js/2.b10f746d.chunk.js",
+    "static/css/main.64fd7879.chunk.css",
+    "static/js/main.e7e26844.chunk.js"
+  ]
+}
