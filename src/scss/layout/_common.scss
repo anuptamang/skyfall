@@ -99,6 +99,7 @@
     background-position: 50% 0;
     background-repeat: no-repeat;
     background-size: cover;
+    box-shadow: 0 0 8px 4px rgba($blue, 0.5);
 
     @include media('>=tablet') {
       width: 180px;

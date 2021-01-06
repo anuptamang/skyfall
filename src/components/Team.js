@@ -6,7 +6,7 @@ import imgDharmendra from '../images/team/dharmendra.jpg';
 import imgManoj from '../images/team/manoj.jpg';
 import imgSubodh from '../images/team/subodh.jpg';
 import imgShankar from '../images/team/shankar.jpg';
-import imgSamrat from '../images/team/samrat.jpg';
+import imgBipin from '../images/team/bipin.jpg';
 import imgSantosh from '../images/team/santosh.jpg';
 import imgSabina from '../images/team/sabina.JPG';
 import imgSapana from '../images/team/sapana.JPG';
@@ -76,10 +76,10 @@ export default function About() {
           <div className="col-6 col-md-3 mb-8 mb-lg-12">
             <div
               className="img-holder mx-auto mb-3"
-              style={{ backgroundImage: `url(${imgSamrat})` }}
+              style={{ backgroundImage: `url(${imgBipin})` }}
             ></div>
-            <h4 className="mb-1">Samrat KC</h4>
-            <p>Graphics Designer</p>
+            <h4 className="mb-1">Bipin Shrestha</h4>
+            <p>UI/UX Designer</p>
           </div>
           <div className="col-6 col-md-3 mb-8 mb-lg-12">
             <div
