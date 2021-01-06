@@ -81,7 +81,7 @@ export default function About() {
             <h4 className="mb-1">Bipin Shrestha</h4>
             <p>UI/UX Designer</p>
           </div>
-          <div className="col-6 col-md-3 mb-8 mb-lg-12">
+          <div className="col-6 col-md-3 mb-8 mb -lg-12">
             <div
               className="img-holder mx-auto mb-3"
               style={{ backgroundImage: `url(${imgSantosh})` }}
